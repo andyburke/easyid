@@ -1,7 +1,7 @@
 
 # easyid
 
-Generates easy, human-readable ids.
+A configurable, easy short id generator for humans.
 
 ## Examples
 
