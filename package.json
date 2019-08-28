@@ -1,6 +1,6 @@
 {
-  "name": "easyid",
-  "version": "1.0.0",
+  "name": "@andyburke/easyid",
+  "version": "1.0.1",
   "description": "A configurable, easy short id generator for humans.",
   "main": "index.js",
   "scripts": {
@@ -8,44 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hellofloat/easyid.git"
+    "url": "git+https://github.com/andyburke/easyid.git"
   },
   "keywords": [
     "id",
     "short"
   ],
-  "author": "Andy Burke <aburke@bitflood.org>",
+  "author": "Andy Burke <andy.burke@mailbox.earth>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hellofloat/easyid/issues"
+    "url": "https://github.com/andyburke/easyid/issues"
   },
-  "homepage": "https://github.com/hellofloat/easyid#readme",
+  "homepage": "https://github.com/andyburke/easyid#readme",
   "dependencies": {
-    "extend": "^3.0.0",
-    "tap-spec": "^4.1.1",
-    "tape": "^4.6.0"
-  },
-  "jshintConfig": {
-    "curly": true,
-    "eqeqeq": true,
-    "eqnull": true,
-    "esnext": true,
-    "forin": true,
-    "freeze": true,
-    "futurehostile": true,
-    "latedef": "nofunc",
-    "maxcomplexity": 10,
-    "maxdepth": 3,
-    "maxparams": 4,
-    "maxstatements": 30,
-    "noarg": true,
-    "nocomma": true,
-    "node": true,
-    "nonbsp": true,
-    "nonew": true,
-    "singleGroups": true,
-    "strict": "global",
-    "undef": true,
-    "unused": true
+    "extend": "^3.0.2",
+    "tap-spec": "^5.0.0",
+    "tape": "^4.11.0"
   }
 }
