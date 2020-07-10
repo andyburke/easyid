@@ -1,6 +1,6 @@
 {
   "name": "@andyburke/easyid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A configurable, easy short id generator for humans.",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   "dependencies": {
     "extend": "^3.0.2",
     "tap-spec": "^5.0.0",
-    "tape": "^4.11.0"
+    "tape": "^5.0.1"
   }
 }
