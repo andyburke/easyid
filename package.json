@@ -1,6 +1,6 @@
 {
   "name": "@andyburke/easyid",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A configurable, easy short id generator for humans.",
   "main": "index.js",
   "scripts": {
